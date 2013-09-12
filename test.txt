@@ -1,4 +1,5 @@
 program v1;
 begin
 writeln('Hello!');
+delay(100);
 end.
