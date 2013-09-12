@@ -1,3 +1,4 @@
 program v1;
 begin
+writeln('Hello!');
 end.
