@@ -1,4 +1,5 @@
 program v1;
+var a:integer;
 begin
 writeln('Hello!');
 delay(100);
