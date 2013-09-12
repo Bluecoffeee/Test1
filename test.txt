@@ -1,0 +1,3 @@
+program v1;
+begin
+end.
