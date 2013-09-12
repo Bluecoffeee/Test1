@@ -3,5 +3,9 @@ var a:integer;
 begin
 writeln('Hello!');
 delay(100);
+<<<<<<< HEAD
 a:=3;
+=======
+//sadlfkjhaslfj
+>>>>>>> refs/heads/branch_one
 end.
